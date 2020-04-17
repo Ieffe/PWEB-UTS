@@ -9,3 +9,12 @@ body{
     font-family: Ubuntu;
     color: #d2cec6;
 }
+
+.minimo-comment::placeholder{
+    font-family: Ubuntu;
+    color: grey;
+    padding-left: 20px;
+    padding-top: 10px ;
+    padding-bottom: ;
+    padd
+}
