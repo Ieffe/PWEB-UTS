@@ -10,6 +10,9 @@ body{
     color: #d2cec6;
 }
 
+.minimo-comment{
+    padding: 10px;
+}
 .minimo-comment::placeholder{
     font-family: Ubuntu;
     color: grey;
