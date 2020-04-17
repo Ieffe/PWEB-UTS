@@ -1,0 +1,11 @@
+body{
+    font-family: Playfair-Display ;
+}
+.minimo-text{
+    font-family: Playfair-Display ;
+}
+
+.category, .comment{
+    font-family: Ubuntu;
+    color: #d2cec6;
+}
